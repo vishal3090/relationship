@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "%clr(%d{${LOG_DATEFORMAT_PATTERN",
+  "type": "java.lang.String",
+  "description": "A description for '%clr(%d{${LOG_DATEFORMAT_PATTERN'"
+}]}
